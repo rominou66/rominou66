@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @rominou66
-- 👀 I’m interested in robotics
+- 👀 I’m interested in robotics and video games developments.
 - 🌱 I’m currently learning Electrical Engineering
+
+- DevBlog: https://rominou66.github.io/
+- Itch.io: https://rominou66.itch.io/
 - 📫 How to reach me @Rominou66 on Twitter.
 
 <!---
